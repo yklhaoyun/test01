@@ -9,9 +9,6 @@
             "email":"765075970@QQ.com"
         }
     ],
-    "require-dev": {
-        "yklhaoyun/test01": "1.0.*"
-    },
     "autoload":{
         "files":[
             "1.php"
@@ -19,7 +16,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0"
+            "dev-master": "1.0.0"
         }
     }
 }
